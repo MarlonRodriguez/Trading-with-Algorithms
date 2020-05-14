@@ -2,7 +2,7 @@
 O'Reilly class on trading with algorithms
 
 ## Exercise 1
-(O'Reilly_Class_Introduction_to_Machine_Learning_for_Algorithmic_Trading_Colab_Notebook_1.ipynb)
+[O'Reilly_Class_Introduction_to_Machine_Learning_for_Algorithmic_Trading_Colab_Notebook_1.ipynb](O'Reilly_Class_Introduction_to_Machine_Learning_for_Algorithmic_Trading_Colab_Notebook_1.ipynb)
 
 ## Exercise 2
 O'Reilly_Class_Logistic_Regression.ipynb
